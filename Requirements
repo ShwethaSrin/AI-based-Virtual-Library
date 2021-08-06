@@ -1,7 +1,2 @@
-Requirements 
-Introduction:
 
-VR library is a new type of library based on the new technology of digital, network-based, intelligent and the new concepts of management, which has gradually become the future library model. The users interact with the virtual world in a natural way in 3D virtual environment to achieve real visual, tactile, and auditory and factory experience. We use VR technology to develop a virtual library system.VR experience virtual library scene construction, virtual roaming and scene interaction and book retrieving by connecting  with the library management system. System admin will collect the ebooks of all the library books available and add those books to the VR System where students can able to access those e-books through VR headset. The pdf file is processed to generate the summary of the ebook and an audio clip of the summary. The summary is displayed first once the user clicks on the ebook in virtual environment user can listen to the audio clip of the summary and can read the book page by page.
-
-Research
 

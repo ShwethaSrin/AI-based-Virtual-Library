@@ -6,7 +6,9 @@ Introduction
 Due to busy life schedule we hardly get time to go to library and read book. Even we may not get access to all the books in the nearby library. And even we can not go to the library every time. Sometime we may face problems like after reading a book we may not find interesting and skip that book, that waste our time. So we need a platform where we can get a chance to read or listen to the summary of the book.
 
 Research 
+
 1.Virtual has had the meaning of "being something in essence or effect, though not actually or in fact" since the mid-1400s. The term "virtual" has been used in the computer sense of "not physically existing but made to appear by software" since 1959. In 1938.
+
 2.Virtual library with 3d effect idea is  to improve the educational system and student intrest.
 
 
@@ -44,18 +46,25 @@ SWOT
 
 Strengths 
 1. Helps with Impressive Visualization 
+
 2.  Creating Interest
+
 3. Improves Educational Value
+
 4. Easy to use.
 
 Weakness
+
 1.Carrying head mounted display everywhere 
+
 2.Limited feautres 
 
 Opportunities 
 
 1.Increase in educational value
+
 2.Improve the students intrest in learning 
+
 3.Staff opportunities 
 
 Threats

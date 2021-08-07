@@ -10,8 +10,6 @@ High level Design
 low level Design 
 
 
-![image](https://user-images.githubusercontent.com/38684091/128608738-53caaa7b-2550-4d48-8151-87ba00b14abe.png)
-
 ![image](https://user-images.githubusercontent.com/38684091/128608760-0682f493-fcf0-4875-9aa1-9bde9f12624c.png)
 
 ![image](https://user-images.githubusercontent.com/38684091/128608768-924782e7-196c-48f1-88d5-3e978b33828c.png)

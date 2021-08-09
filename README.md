@@ -2,7 +2,7 @@
 
 code Quality with codacy badge 
 
-![image](https://user-images.githubusercontent.com/38684091/128644176-12152bd9-e4b9-4db0-a880-d074f904706e.png)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fce1e7299f09424e9d3e74a5a718f7fc)](https://www.codacy.com/gh/ShwethaSrin/AI-based-Virtual-Library/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShwethaSrin/AI-based-Virtual-Library&amp;utm_campaign=Badge_Grade)
 
 
 
